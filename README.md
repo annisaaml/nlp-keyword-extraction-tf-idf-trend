@@ -29,7 +29,7 @@ Here's how to use the Skripsi Trend Visualization System:
 
 `stopwords.txt`: List of stopwords used for text preprocessing.
 
-Please note that this repository does not include the actual skincare product data files due to privacy considerations. You will need to provide your own dataset containing product descriptions and information for the system to work properly.
+Please note that this repository does not include the actual thesis data files due to privacy considerations. You will need to provide your own dataset containing abstrack and information for the system to work properly.
 
 # Contributions
 Feel free to contribute by enhancing the system's functionality, improving the visualization, or adding new features. Create a pull request to propose changes.
